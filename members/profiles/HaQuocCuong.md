@@ -5,7 +5,7 @@
 * 🎓 **Trường:** Đại Học Bách Khoa Hà Nội
 * 📚 **Ngành:** Kỹ thuật Điều khiển \& Tự động hóa
 * 📅 **Năm học:** 2
-* 📧 **Email:** \[haquoccuong.work@gmail.com]
+* 📧 **Email:** [haquoccuong.work@gmail.com](mailto:haquoccuong.work@gmail.com)
 * 🐙 **GitHub:** [@gnouc3](https://github.com/gnouc3)
 
 ## 🎯 Mục tiêu học tập
@@ -17,9 +17,9 @@
 
 ## 💻 Kỹ năng đang học
 
-* **Ngôn ngữ lập trình:** C/C++, Python, MATLAB
-* **Framework:** Flask
-* **Tools:** Git, VS Code, Wireshark
+* **Ngôn ngữ lập trình:** C/C++, Python, MATLAB.
+* **Framework:** Flask.
+* **Tools:** Git, VS Code, Wireshark.
 * **Kỹ năng mềm:** Thuyết trình, làm việc nhóm, quản lý thời gian, etc.
 
 ## 🌟 Dự án đã làm
@@ -28,13 +28,13 @@
 3. **Dự án này** - [Luyện tập GitHub cơ bản 🎉](https://github.com/gnouc3/github-practice-beginner)
 
 ## 🎮 Sở thích
-- 🎵 Nghe nhạc: Pop, RnB, Classic
-- 📚 Đọc sách: Trinh thám, tiểu thuyết, truyện tranh, sách khoa học  
-- ⚽ Thể thao: **Bóng chuyền**, cầu lông, pickleball, billards
-- 🎯 Khác: Ném đá lia thia, Valorant, etc.
+- 🎵 Nghe nhạc: Pop, RnB, Classic.
+- 📚 Đọc sách: Trinh thám, tiểu thuyết, truyện tranh, sách khoa học.  
+- ⚽ Thể thao: **Bóng chuyền**, cầu lông, pickleball, billards.
+- 🎯 Khác: Ném đá lia thia, Valorant, etc..
 
 ## 💭 Quote yêu thích
-> "Từ 5 đến 15 tuổi chỉ là 10 năm, nhưng từ 15 tuổi đến 25 tuổi là cả cuộc đời"
+> "Từ 5 đến 15 tuổi chỉ là 10 năm, nhưng từ 15 tuổi đến 25 tuổi là cả cuộc đời."
 
 ## 📈 GitHub Stats
 <!-- Các bạn có thể thêm GitHub stats sau khi học xong -->
