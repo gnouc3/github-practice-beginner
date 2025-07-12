@@ -32,3 +32,16 @@
 - 📚 Đọc sách: Trinh thám, tiểu thuyết, truyện tranh, sách khoa học  
 - ⚽ Thể thao: **Bóng chuyền**, cầu lông, pickleball, billards
 - 🎯 Khác: Ném đá lia thia, Valorant, etc.
+
+## 💭 Quote yêu thích
+> "Từ 5 đến 15 tuổi chỉ là 10 năm, nhưng từ 15 tuổi đến 25 tuổi là cả cuộc đời"
+
+## 📈 GitHub Stats
+<!-- Các bạn có thể thêm GitHub stats sau khi học xong -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnouc3&show_icons=true&theme=radical)
+
+---
+
+**🚀 Cảm ơn bạn đã ghé thăm profile của tôi!**
+
+*Hãy kết nối với tôi qua [Mail: haquoccuong.work@gmail.com](mailto:haquoccuong.work@gmail.com) hoặc [GitHub: gnouc3](https://github.com/gnouc3)!*
